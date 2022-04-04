@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **vishnunadh222@gmail.com**
 
-- ⚡ Fun fact **I am Serious Guy with a funny outlook about the world!🙃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
