@@ -3,9 +3,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnunadh-ai&label=Profile%20views&color=0e75b6&style=flat" alt="vishnunadh-ai" /> </p> -->
 
-- 🌱 I’m currently learning **Advanced Deep Learning, Computer vision, NLP and Front-End Frame Works**
+- 🌱 I’m currently learning **Advanced Deep Learning, Computer vision, NLP**
 
-- 💬 Ask me about **Python, Machine Learning, Front-End Development**
+- 💬 Ask me about **Machine Learning, Deep Learning, Full-stack Python Development**
 
 - 📫 How to reach me **vishnunadh222@gmail.com**
 
