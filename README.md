@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Vishnunadh</h1>
 <h3 align="center">A Enthusiastic Data Scientist and Web Developer</h3>
 
-- 🔭 I’m currently working on **will be updated**
+<!-- - 🔭 I’m currently working on **will be updated** -->
 
 - 🌱 I’m currently learning **Computer vison, NLP, Django, React**
 
-- 👯 I’m looking to collaborate on **Nothing as of now**
+<!-- - 👯 I’m looking to collaborate on **Nothing as of now** -->
 
-- 🤝 I’m looking for help with **Nothing as of now**
+<!-- - 🤝 I’m looking for help with **Nothing as of now** -->
 
-- 👨‍💻 All of my projects are available at [Will be added](Will be added)
+<!-- - 👨‍💻 All of my projects are available at [Will be added](Will be added) -->
 
-- 📝 I regularly write articles on [will be added](will be added)
+<!-- - 📝 I regularly write articles on [will be added](will be added) -->
 
 - 💬 Ask me about **Machine Learining, Deep Learning, Computer vision, Full Stack Python Development**
 
 - 📫 How to reach me **vishnunadh222@gmail.com**
 
-- 📄 Know about my experiences [will be added](will be added)
+<!-- - 📄 Know about my experiences [will be added](will be added) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
