@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **will be updated** -->
 
-- 🌱 I’m currently learning **Computer vison, NLP, Django, React**
+- 🌱 I’m currently learning **Django, React**
 
 <!-- - 👯 I’m looking to collaborate on **Nothing as of now** -->
 
