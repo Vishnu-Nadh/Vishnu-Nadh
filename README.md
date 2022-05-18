@@ -13,7 +13,7 @@
 
 <!-- - 📝 I regularly write articles on [will be added](will be added) -->
 
-- 💬 Ask me about **Machine Learining, Deep Learning, Computer vision, Full Stack Python Development**
+- 💬 Ask me about **Machine Learining, Deep Learning, Full Stack Python Development**
 
 - 📫 How to reach me **vishnunadh222@gmail.com**
 
