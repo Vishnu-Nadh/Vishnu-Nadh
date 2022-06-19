@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **will be updated** -->
 
-- 🌱 I’m currently learning **Django, React**
+- 🌱 I’m currently mastering **Front End development**
 
 <!-- - 👯 I’m looking to collaborate on **Nothing as of now** -->
 
@@ -13,7 +13,7 @@
 
 <!-- - 📝 I regularly write articles on [will be added](will be added) -->
 
-- 💬 Ask me about **Machine Learining, Deep Learning, Full Stack Python Development**
+- 💬 Ask me about **Machine Learining, Deep Learning, Web development using Python Flask, HTML5, Adavanced CSS3, Modern Javascript (ES6+)**
 
 - 📫 How to reach me **vishnunadh222@gmail.com**
 
