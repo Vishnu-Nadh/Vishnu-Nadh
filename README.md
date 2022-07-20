@@ -3,7 +3,7 @@
 
 <!-- - 🔭 I’m currently working on **will be updated** -->
 
-- 🌱 I’m currently mastering **Front End development**
+<!-- - 🌱 I’m currently mastering **Front End development** -->
 
 <!-- - 👯 I’m looking to collaborate on **Nothing as of now** -->
 
