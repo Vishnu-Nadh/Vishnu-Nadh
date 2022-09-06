@@ -13,7 +13,7 @@
 
 <!-- - 📝 I regularly write articles on [will be added](will be added) -->
 
-- 💬 Ask me about **Machine Learining, Deep Learning, Web development using Python Flask, HTML5, Adavanced CSS3, Modern Javascript (ES6+)** and ReactJS
+- 💬 Ask me about **Machine Learining, Deep Learning, Web development using Python Flask/Django, HTML5, Adavanced CSS3, Modern Javascript (ES6+)** and ReactJS
 
 - 📫 How to reach me **vishnunadh222@gmail.com**
 
