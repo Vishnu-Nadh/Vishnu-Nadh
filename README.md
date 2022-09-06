@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishnunadh</h1>
 <h3 align="center">A Enthusiastic Data Scientist and Web Developer</h3>
 
-- 🔭 I’m currently working on a Project Named EasyML - A no code Machine Learining Tool
+- 🔭 I’m presently mastering React.js and Django restful api and their integration by building amazing full-stack applications.
 
 <!-- - 🌱 I’m currently mastering **Front End development** -->
 
