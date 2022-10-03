@@ -2,7 +2,7 @@
 <h3 align="center">I am a Creative Full Stack Web Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on building a Full stack E-commerce application using Next.js  <br>🌱 I’m currently learning Next.js, TypeScript, Django REST framework<br>💬 Ask me about React, Redux, Django, Flask, Machine Learning, Deep Learning<br>
+🔭 I’m currently Mastering Frontend Developement using React Js  <br>🌱 I’m currently learning Next.js, TypeScript, Django REST framework<br>💬 Ask me about React, Redux, Django, Flask, Machine Learning, Deep Learning<br>
 
 
 ## 🌐 Socials:
