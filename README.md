@@ -2,7 +2,7 @@
 <h3 align="center">I am a Creative Full Stack Web Developer</h3>
 
 # 💫 About Me:
-🔭 I’m currently Mastering Frontend Developement using React Js  <br>🌱 I’m currently learning Next.js, TypeScript, Django REST framework<br>💬 Ask me about React, Redux, Django, Flask, Machine Learning, Deep Learning<br>
+🔭 Experienced professional in Frontend Developement using React Js.<br>🌱 I’m currently Mastering fullstack development Next.js, TypeScript,<br>💬 Ask me about React, Redux, NextJs, Rest API, Flask, Machine Learning, Deep Learning<br>
 
 
 ## 🌐 Socials:
